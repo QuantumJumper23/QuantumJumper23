@@ -1,6 +1,6 @@
-<h1>hey, I'm Satyam.</h1>
+<h1>Hello, I’m Satyam! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" height="32" alt="Waving hand"></h1>
 <p>Software developer building terminal tools, web interfaces, and systems projects.</p>
-<p>I’m open to software developer roles where I can build developer tools and web applications.</p>
+<p>I’m open to software developer roles.</p>
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=21&amp;pause=1000&amp;color=A78BFA&amp;width=600&amp;lines=Building+tools+with+Go+and+TypeScript;Exploring+systems+with+C+and+C%2B%2B;Creating+web+interfaces+with+React" alt="Building tools with Go and TypeScript. Exploring systems with C and C++. Creating web interfaces with React.">
 </p>
@@ -21,7 +21,7 @@
   <li>Terminal interface built with tview.</li>
 </ul>
 <p><strong>Go · tview · HTTP API integration</strong></p>
-<p><a href="https://github.com/QuantumJumper23/STOCK-TUI"><img src="https://raw.githubusercontent.com/QuantumJumper23/STOCK-TUI/main/screenshots/chart.png" alt="STOCK-TUI terminal candlestick chart" width="800"></a></p>
+<p><a href="https://github.com/QuantumJumper23/STOCK-TUI"><img src="https://raw.githubusercontent.com/QuantumJumper23/STOCK-TUI/main/screenshots/jonesy.png" alt="STOCK-TUI terminal candlestick chart" width="800"></a></p>
 
 <h3><a href="https://github.com/QuantumJumper23/Shell-Mind-Agent">Shell Mind Agent</a></h3>
 <p>A terminal coding agent built with TypeScript and Bun.</p>
